@@ -9,10 +9,11 @@ yarn dev
 pnpm dev
 # or
 open http://localhost:3000 with your browser to see the result.
+<img width="955" alt="Screensho react" src="https://github.com/user-attachments/assets/de3fd757-4012-4c52-a48f-b41583754169" />
+![biz22](https://github.com/user-attachments/assets/c52b83ca-8b7f-4e94-9ddb-319bb54dfe61)
 
-<img width="955" alt="Screensho react" src="https://github.com/user-attachments/assets/b1e08f45-2a39-4fe8-a5b0-bcc69f0b1805" />
-![biz22](https://github.com/user-attachments/assets/6c266880-467d-47d7-9d7f-ec63fc3a1579)
-![biz22](https://github.com/user-attachments/assets/fed76078-6597-401f-9f0b-27cd4a9776fa)
+
+
 
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
 
